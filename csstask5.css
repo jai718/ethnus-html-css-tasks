@@ -1,0 +1,42 @@
+#container{
+    border: 1px solid black;
+    background-color: yellow;
+    display: inline-block;
+    height: 500px;
+    width: 550px;
+    border: dotted 1px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+#buton{
+    border-right: 20px solid black;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 25px;
+    width: 100px;
+}
+#flexcontainer{
+    display: inline-block;
+    margin-left: 30px;
+    color: brown;
+
+}
+.merge{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+#hom{
+    text-decoration: none;
+    margin-left: 5px;
+}
+#line{
+    border-top: dotted 1px;
+}
+#task{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}

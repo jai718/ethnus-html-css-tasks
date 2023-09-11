@@ -1,0 +1,43 @@
+#sidenav a{
+    position: absolute;
+    padding: 15px;
+    left: -95px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    transition: 0.4s;
+    margin-top: 50px;
+    
+}
+#sidenav a:hover{
+    left: 0;
+}
+#home{
+    background-color: greenyellow;
+    top: 30px;
+
+}
+#html{
+    background-color: skyblue;
+    top: 90px;
+}
+#css{
+    background-color: red;
+    top: 150px;
+}
+#boot{
+    background-color: black;
+    top: 210px;
+}
+h1{
+    text-align: center;
+    color: #d55219;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+}
+
+

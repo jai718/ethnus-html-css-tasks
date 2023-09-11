@@ -1,0 +1,122 @@
+#mainav{
+    border: 1px solid black;
+    display: inline-block;
+    
+
+}
+#navbar{
+    border: 1px solid black;
+    display: inline-block;
+    background-color:lightskyblue;
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#homen{
+    background-color: orange;
+    height: 40px;
+    
+}
+#java{
+    height: 40px;
+
+}
+#css{
+    height: 40px;
+}
+#html{
+    height: 40px;
+}
+#btst{
+    height: 40px;
+}
+.hom{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+
+
+#mai{
+    border: 1px solid #000000;
+    display:
+    height 40px ;
+    width: 390px ;
+
+}
+#second{
+    
+    background-color: lightgray;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    display:inline block;
+    height: 30px;
+    width: 385px;
+    padding: 0;
+}
+#hom{
+    height: 30px;
+    display: inline flex;
+    width:70px;
+    margin-right: 0;
+    background-color: gray;
+    text-align: center;
+    justify-content: center;
+    border: 1px;
+    border-right: solid blue;
+    
+  
+
+
+}
+#htm{
+    height: 30px;
+    display: inline flex;
+    width: 70px;
+    margin-left:0px;
+    justify-content: center;
+   
+    
+    
+
+}
+#cs{
+    height: 30px;
+    width: 70px;
+    
+    display: inline-flex;
+    justify-content: center;
+    border: 1px;
+    border-left: solid blue;
+}
+#jav{
+    height: 30px;
+    width: 70px;
+    
+    display: inline flex;
+    justify-content: center;
+    border: 1px;
+    border-left: solid blue;
+}
+#boot{
+    height: 30px;
+    width: 70px;
+    display: inline flex;
+    justify-content: center;
+    border: 1px;
+    border-left: solid blue;
+
+}
+#idhom{
+    color: white;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
